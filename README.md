@@ -1,2 +1,3 @@
 # KaraokeSing
-Sistema web integrado de un Karaoke. permite la interacción del usuario a diversas funciones dentro de la cadena de locales
+Sistema web integrado de un Karaoke. 
+Permite la interacción del usuario con diversas funciones dentro de la cadena de locales del Karaoke Sing, tales como reservas, pedidos musicales, bebidas, piqueos & snacks.
